@@ -17,7 +17,6 @@ const healthMessages = [
 let globalCountdown = null;
 let globalOverlay = null;
 
-// zARIK ABİ 2
 
 // Zarık abi naber
 function updateAllTabs() {
