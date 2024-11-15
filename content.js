@@ -17,6 +17,8 @@ const healthMessages = [
 let globalCountdown = null;
 let globalOverlay = null;
 
+
+// Zarık abi naber
 function updateAllTabs() {
     chrome.runtime.sendMessage({
         action: "updateTimer",
