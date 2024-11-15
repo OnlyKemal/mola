@@ -8,8 +8,11 @@ const healthMessages = [
     "Ekran karşısında gözlerinizi kırpma sıklığınız azalır. 20-20-20 kuralını uygulayın!",
     "Zihinsel dinlenme için kısa molalar önemlidir. Düşüncelerinizi toplayın!",
     "Boyun ağrılarını önlemek için boyun egzersizleri yapın!",
-    "Fiziksel aktivite beyin fonksiyonlarınızı geliştirir. Kısa bir yürüyüş yapın!"
+    "Fiziksel aktivite beyin fonksiyonlarınızı geliştirir. Kısa bir yürüyüş yapın!",
+    "Kalk gez biraz",
+	"Kalk gez biraz"
 ];
+
 
 let globalCountdown = null;
 let globalOverlay = null;
